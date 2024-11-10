@@ -66,10 +66,15 @@ sections:
             url: 'https://github.com/JOAN-IRIBURUN/E-Commerce-Sales-Dashboard/'
       - type: Card
         title: Item Title
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          This dashboard provides an intuitive overview of sales performance
+          across multiple distributors, regions, and product categories. It
+          consolidates key metrics such as total sales, growth trends,
+          distributor performance, and product sales to help businesses track
+          progress, identify top performers, and optimize strategies for growth.
+          The dashboard includes visualizations like bar charts, pie charts, and
+          maps to make data analysis accessible and actionable for
+          decision-makers.
         image:
           type: Image
           url: /images/Distributors sales dashboard.jpg
