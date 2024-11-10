@@ -33,7 +33,7 @@ sections:
       type: Image
       altText: Hero section image
   - type: CardsSection
-    title: Featured Projects
+    title: ''
     subtitle: ''
     items:
       - type: Card
