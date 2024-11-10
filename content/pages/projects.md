@@ -10,13 +10,7 @@ sections:
       skills in Excel, Power BI, and Microsoft Word. Each project demonstrates
       my ability to transform raw data into clear, actionable insights through
       detailed analysis, interactive dashboards, and data visualizations.
-    actions:
-      - type: Button
-        label: linkedin
-        url: /
-        size: large
-        variant: contained
-        color: primary
+    actions: []
     image:
       type: Image
       altText: Hero section image
