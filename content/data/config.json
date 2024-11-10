@@ -23,7 +23,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Back to ",
+                "label": "",
                 "underline": "hover",
                 "url": "/"
             },
