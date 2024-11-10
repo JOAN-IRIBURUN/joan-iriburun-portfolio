@@ -122,26 +122,4 @@ sections:
           url: /images/Power BI.svg
           altText: Power bi logo
         actions: []
-  - type: CardsSection
-    title: Contact Me
-    subtitle: >-
-      I’d love to hear from you! Whether you’re interested in collaborating on a
-      project, have a question about my work, or simply want to connect, feel
-      free to reach out.
-    items:
-      - type: Card
-        title: Item Title
-        text: ''
-        image:
-          type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-        actions:
-          - type: Button
-            label: Learn More
-            url: /
-            size: medium
-            variant: text
-            color: primary
 ---
