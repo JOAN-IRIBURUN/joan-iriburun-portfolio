@@ -65,7 +65,7 @@ sections:
             label: GITHUB REPOSITORY
             url: 'https://github.com/JOAN-IRIBURUN/E-Commerce-Sales-Dashboard/'
       - type: Card
-        title: Item Title
+        title: Distributor Sales Dashboard
         text: >
           This dashboard provides an intuitive overview of sales performance
           across multiple distributors, regions, and product categories. It
