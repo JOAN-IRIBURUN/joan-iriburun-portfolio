@@ -36,7 +36,7 @@ sections:
         color: primary
       - type: Button
         label: linkedin
-        url: 'https://www.linkedin.com/in/jpan-iriburun/'
+        url: 'https://www.linkedin.com/in/joan-iriburun/'
         size: large
         variant: contained
         color: primary
