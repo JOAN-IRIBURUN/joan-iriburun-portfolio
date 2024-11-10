@@ -18,6 +18,12 @@ sections:
     title: Professional Experience
     subtitle: ''
     text: >
+      **Loan Recovery Officer**
+
+
+      Alert Microfinance Bank
+
+
       Managed the recovery of substandard loans, negotiated repayment terms with
       customers, and utilized legal and police support when necessary to enforce
       payment.
