@@ -28,7 +28,7 @@ sections:
         label: GitHub
         url: /
         size: medium
-        variant: contained
+        variant: outlined
         color: primary
     image:
       type: Image
