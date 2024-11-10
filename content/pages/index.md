@@ -71,7 +71,7 @@ sections:
           methods, and retailer effectiveness.
         actions:
           - type: Button
-            label: Read the Docs
+            label: GITHUB REPOSITORY
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: E-Commerce Sales Dashboard
