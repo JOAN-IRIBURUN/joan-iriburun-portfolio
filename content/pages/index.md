@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Hi!
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: Welcome to my portfolio
     text: >
       I’m a data analyst with a proven track record in loan recovery and
       customer service. I leverage data to uncover insights, improve business
