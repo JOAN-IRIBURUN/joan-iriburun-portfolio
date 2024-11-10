@@ -24,6 +24,12 @@ sections:
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: GitHub
+        url: /
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       altText: Hero section image
