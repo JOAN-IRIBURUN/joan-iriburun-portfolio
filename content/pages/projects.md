@@ -12,12 +12,6 @@ sections:
       detailed analysis, interactive dashboards, and data visualizations.
     actions:
       - type: Button
-        label: GitHub
-        url: 'https://github.com/JOAN-IRIBURUN'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
         label: linkedin
         url: /
         size: large
