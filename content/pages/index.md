@@ -22,7 +22,7 @@ sections:
         label: Resume
         url: /
         size: medium
-        variant: text
+        variant: contained
         color: primary
       - type: Button
         label: Read the Docs
