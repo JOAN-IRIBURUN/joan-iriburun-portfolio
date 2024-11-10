@@ -89,7 +89,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
   - type: CardsSection
-    title: Cards Section Title
+    title: Technical Skills
     subtitle: The section subtitle
     items:
       - type: Card
