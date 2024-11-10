@@ -88,10 +88,15 @@ sections:
             color: primary
       - type: Card
         title: Item Title
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          For this project, I developed an interactive Power BI dashboard to
+          analyze over 1.76 million 911 calls for the Austin Police Department.
+          By focusing on key metrics like response times, mental health-related
+          incidents, and resource allocation, the dashboard provides actionable
+          insights to help improve police operations and public safety. Using
+          SQL for data extraction and Power BI for visualization, the dashboard
+          supports data-driven decision-making and enhances the department's
+          ability to optimize resources and respond effectively to incidents.
         image:
           type: Image
           url: >-
