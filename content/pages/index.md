@@ -123,7 +123,7 @@ sections:
           altText: Power bi logo
         actions: []
   - type: CardsSection
-    title: Cards Section Title
+    title: Contact Me
     subtitle: The section subtitle
     items:
       - type: Card
