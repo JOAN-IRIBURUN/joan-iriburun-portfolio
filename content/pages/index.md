@@ -100,7 +100,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         image:
           type: Image
-          url: /images/Microsoft-Word-Logo-700x394.png
+          url: /images/Microsoft-Excel-Logo-700x394.jpg
           altText: First item image
         actions:
           - type: Button
