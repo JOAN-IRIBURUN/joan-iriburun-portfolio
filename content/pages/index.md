@@ -60,7 +60,7 @@ sections:
         title: Adidas Sales Data Analysis
         image:
           type: Image
-          url: /images/Adidas-Logo-1991.jpg
+          url: /images/Adidas-Sales-Analysis.jpg
           altText: Second item image
         text: >
           This project focuses on analyzing a dataset of Adidas sales
