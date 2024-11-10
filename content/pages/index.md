@@ -90,7 +90,7 @@ sections:
             url: 'https://docs.netlify.com/visual-editor/overview/'
   - type: CardsSection
     title: Technical Skills
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Card
         title: First Item Title
