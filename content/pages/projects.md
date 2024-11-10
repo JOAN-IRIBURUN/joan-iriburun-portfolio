@@ -82,7 +82,7 @@ sections:
         actions:
           - type: Button
             label: GITHUB REPOSITORY
-            url: /
+            url: 'https://github.com/JOAN-IRIBURUN/Distributor-Sales-Dashboard'
             size: medium
             variant: text
             color: primary
