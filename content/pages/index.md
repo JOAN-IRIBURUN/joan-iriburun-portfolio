@@ -24,7 +24,7 @@ sections:
     actions:
       - type: Button
         label: PROJECTS
-        url: rojects
+        url: /projects
         size: large
         variant: contained
         color: primary
