@@ -19,12 +19,6 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Resume
-        url: /
-        size: medium
-        variant: contained
-        color: primary
-      - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
