@@ -23,7 +23,7 @@ sections:
       impactful results, or get in touch if you’re interested in collaborating.
     actions:
       - type: Button
-        label: projects
+        label: PROJECTS
         url: /projects
         size: large
         variant: contained
