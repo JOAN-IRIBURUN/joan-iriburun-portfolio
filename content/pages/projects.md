@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Home
+title: Projects
 sections:
   - type: HeroSection
     title: Welcome to My Data Analytics Portfolio
