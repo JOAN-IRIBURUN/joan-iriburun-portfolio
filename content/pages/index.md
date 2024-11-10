@@ -80,10 +80,11 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          In this project, I built an interactive E-Commerce Sales Dashboard to
+          track key performance metrics for an online retail business. The goal
+          was to provide stakeholders with a comprehensive view of sales
+          performance, customer behavior, and marketing effectiveness, enabling
+          data-driven decision-making to improve business outcomes.
         actions:
           - type: Button
             label: Read the Docs
