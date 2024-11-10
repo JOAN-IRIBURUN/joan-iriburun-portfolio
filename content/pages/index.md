@@ -77,7 +77,7 @@ sections:
         title: E-Commerce Sales Dashboard
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/E-Commerce-Sales-Dashboard.jpg
           altText: Third item image
         text: >
           In this project, I built an interactive E-Commerce Sales Dashboard to
