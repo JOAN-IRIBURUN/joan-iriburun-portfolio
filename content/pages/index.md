@@ -33,7 +33,7 @@ sections:
       - type: Button
         label: linkedin
         url: /
-        size: medium
+        size: large
         variant: contained
         color: primary
     image:
