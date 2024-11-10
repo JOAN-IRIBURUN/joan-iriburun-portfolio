@@ -24,7 +24,7 @@ sections:
     actions:
       - type: Button
         label: projects
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: /projects
         size: large
         variant: contained
         color: primary
@@ -43,6 +43,7 @@ sections:
     image:
       type: Image
       altText: Hero section image
+      url: /images/Picture1.jpg
   - type: CardsSection
     title: Featured Projects
     subtitle: ''
@@ -59,7 +60,7 @@ sections:
         actions:
           - type: Button
             label: GitHub Repository
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://github.com/JOAN-IRIBURUN/HR-Analytics/'
       - type: Card
         title: Adidas Sales Data Analysis
         image:
@@ -76,7 +77,7 @@ sections:
         actions:
           - type: Button
             label: GITHUB REPOSITORY
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://github.com/JOAN-IRIBURUN/Adidas-Sales-Data-Analysis/'
       - type: Card
         title: E-Commerce Sales Dashboard
         image:
@@ -92,7 +93,7 @@ sections:
         actions:
           - type: Button
             label: GITHUB REPOSITORY
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://github.com/JOAN-IRIBURUN/E-Commerce-Sales-Dashboard/'
   - type: CardsSection
     title: Technical Skills
     subtitle: ''
