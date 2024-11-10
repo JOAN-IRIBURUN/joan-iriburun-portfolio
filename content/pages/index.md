@@ -98,7 +98,7 @@ sections:
         image:
           type: Image
           url: /images/Word.svg
-          altText: First item image
+          altText: ms word logo
         actions:
           - type: Button
             label: Learn more
