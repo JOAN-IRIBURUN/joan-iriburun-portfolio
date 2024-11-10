@@ -19,7 +19,7 @@
         ]
     },
     "footer": {
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
+        "copyrightText": "Copyright © Joan Iriburun 2024\n\nPowered by [Netlify](https://www.netlify.com/).\n",
         "navLinks": []
     }
 }
