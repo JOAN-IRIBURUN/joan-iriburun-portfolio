@@ -137,7 +137,7 @@ sections:
         color: primary
       - type: Button
         label: LINKEDIN
-        url: 'https://www.linkedin.com/in/joan-iriburun/'
+        url: 'https://www.linkedin.com/in/joan-iriburun'
         size: large
         variant: contained
         color: primary
