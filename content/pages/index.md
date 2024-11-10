@@ -34,7 +34,7 @@ sections:
         label: linkedin
         url: /
         size: medium
-        variant: text
+        variant: contained
         color: primary
     image:
       type: Image
