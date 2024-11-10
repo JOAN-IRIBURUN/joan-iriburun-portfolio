@@ -54,7 +54,7 @@ sections:
           identify factors that may improve retention.
         actions:
           - type: Button
-            label: Read the Docs
+            label: GitHub Repository
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
         title: Second Card Title
