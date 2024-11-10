@@ -142,7 +142,7 @@ sections:
         actions:
           - type: Button
             label: Joan Iriburun
-            url: /
+            url: 'https://www.linkedin.com/in/'
             size: medium
             variant: text
             color: primary
