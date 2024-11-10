@@ -87,7 +87,7 @@ sections:
           data-driven decision-making to improve business outcomes.
         actions:
           - type: Button
-            label: Read the Docs
+            label: GITHUB REPOSITORY
             url: 'https://docs.netlify.com/visual-editor/overview/'
   - type: CardsSection
     title: Technical Skills
