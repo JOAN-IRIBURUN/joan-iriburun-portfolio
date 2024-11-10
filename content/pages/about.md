@@ -6,14 +6,16 @@ sections:
     title: About Me
     subtitle: This is the subtitle
     text: >
-      This is **Markdown** *text*.
+      I’m Joan, a Data Analyst passionate about turning data into actionable
+      insights using Excel, Power BI, and Word. With a background in \[your
+      field], I specialize in analyzing data, creating interactive dashboards,
+      and building clear reports to help businesses make informed decisions.
 
 
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      I’m excited to continue honing my skills in data analysis and
+      visualization to drive business growth and efficiency. My goal is to
+      leverage my expertise in Excel and Power BI to contribute to data-driven
+      strategies and deliver impactful insights.
   - type: HeroSection
     title: Professional Experience
     subtitle: ''
