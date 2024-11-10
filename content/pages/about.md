@@ -18,7 +18,7 @@ sections:
     title: Professional Experience
     subtitle: ''
     text: >
-      *   Loan Recovery Officer | Alert Microfinance Bank | 2024 - date
+      *   **Loan Recovery Officer | Alert Microfinance Bank | 2024 - date**
 
 
       Managed the recovery of substandard loans, negotiated repayment terms with
