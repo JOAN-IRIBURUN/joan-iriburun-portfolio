@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Hi!
-    subtitle: Welcome to my portfolio
+    subtitle: Welcome to my portfolio!
     text: >
       I’m Joan, a Data Analyst passionate about turning data into actionable
       insights using Excel, Power BI, and Word. With a background in \[your
