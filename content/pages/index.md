@@ -107,13 +107,7 @@ sections:
           type: Image
           url: /images/Excel.svg
           altText: Second item image
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: Third Item Title
         text: >-
