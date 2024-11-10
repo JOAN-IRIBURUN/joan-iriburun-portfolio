@@ -6,16 +6,21 @@ sections:
     title: About Me
     subtitle: This is the subtitle
     text: >
-      I’m Joan, a Data Analyst passionate about turning data into actionable
-      insights using Excel, Power BI, and Word. With a background in \[your
-      field], I specialize in analyzing data, creating interactive dashboards,
-      and building clear reports to help businesses make informed decisions.
+      I’m Joan, a Data Analyst specializing in transforming data into clear,
+      actionable insights using Excel, Power BI, and Microsoft Word. I am
+      passionate about helping businesses unlock the full potential of their
+      data to make informed, data-driven decisions.
 
 
-      I’m excited to continue honing my skills in data analysis and
-      visualization to drive business growth and efficiency. My goal is to
-      leverage my expertise in Excel and Power BI to contribute to data-driven
-      strategies and deliver impactful insights.
+      Through my work, I create interactive dashboards, in-depth reports, and
+      data visualizations that drive business performance and provide clarity on
+      complex data. Whether it's optimizing sales strategies, improving
+      operational efficiency, or understanding customer behavior, I use data to
+      tell the story that drives business growth.
+
+
+      Explore my projects to see how I leverage data analysis to deliver
+      impactful results, or get in touch if you’re interested in collaborating.
   - type: HeroSection
     title: Professional Experience
     subtitle: ''
