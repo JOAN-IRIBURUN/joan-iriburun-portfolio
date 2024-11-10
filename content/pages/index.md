@@ -135,7 +135,7 @@ sections:
         image:
           type: Image
           url: /images/Power BI.svg
-          altText: Third item image
+          altText: Power bi logo
         actions:
           - type: Button
             label: Learn more
