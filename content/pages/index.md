@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hi!
+    title: Welcome to My Data Analytics Portfolio
     subtitle: Welcome to my portfolio!
     text: >
       Hi, I’m Joan, a Data Analyst with a passion for turning complex data into
