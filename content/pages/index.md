@@ -77,7 +77,7 @@ sections:
         actions:
           - type: Button
             label: GITHUB REPOSITORY
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://github.com/JOAN-IRIBURUN/Adidas-Sales-Data-Analysis/'
       - type: Card
         title: E-Commerce Sales Dashboard
         image:
