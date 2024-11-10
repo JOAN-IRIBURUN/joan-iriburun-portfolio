@@ -99,8 +99,7 @@ sections:
           ability to optimize resources and respond effectively to incidents.
         image:
           type: Image
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
+          url: /images/APD Analysis.jpg
           altText: Item image
         actions:
           - type: Button
