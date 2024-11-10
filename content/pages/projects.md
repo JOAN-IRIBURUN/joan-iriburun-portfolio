@@ -31,7 +31,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Picture1.jpg
       altText: Hero section image
   - type: CardsSection
     title: Featured Projects
