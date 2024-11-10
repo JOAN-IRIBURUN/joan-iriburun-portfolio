@@ -27,7 +27,7 @@ sections:
       - type: Button
         label: GitHub
         url: /
-        size: medium
+        size: large
         variant: contained
         color: primary
     image:
