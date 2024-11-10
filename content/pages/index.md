@@ -124,7 +124,10 @@ sections:
         actions: []
   - type: CardsSection
     title: Contact Me
-    subtitle: The section subtitle
+    subtitle: >-
+      I’d love to hear from you! Whether you’re interested in collaborating on a
+      project, have a question about my work, or simply want to connect, feel
+      free to reach out.
     items:
       - type: Card
         title: First Item Title
