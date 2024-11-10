@@ -144,7 +144,7 @@ sections:
       - type: Button
         label: GITHUB
         url: 'https://github.com/JOAN-IRIBURUN/'
-        size: medium
+        size: large
         variant: contained
         color: primary
     image:
