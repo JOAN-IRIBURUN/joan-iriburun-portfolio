@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Welcome to My Data Analytics Portfolio
-    subtitle: Welcome to my portfolio!
+    subtitle: Hi!
     text: >
       Hi, I’m Joan, a Data Analyst with a passion for turning complex data into
       clear, actionable insights. I specialize in using Excel, Power BI, and
