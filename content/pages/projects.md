@@ -3,7 +3,7 @@ type: Page
 title: Projects
 sections:
   - type: HeroSection
-    title: Welcome to My Data Analytics Portfolio
+    title: Welcome to my project portfolio!
     subtitle: ''
     text: >
       Here, you'll find a collection of data analysis projects that showcase my
