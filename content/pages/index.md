@@ -29,12 +29,6 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: resume
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
         label: GitHub
         url: 'https://github.com/JOAN-IRIBURUN'
         size: large
