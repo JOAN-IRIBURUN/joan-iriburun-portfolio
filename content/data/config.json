@@ -20,13 +20,6 @@
     },
     "footer": {
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/).",
-        "navLinks": [
-            {
-                "type": "Link",
-                "label": "About",
-                "underline": "hover",
-                "url": "/about"
-            }
-        ]
+        "navLinks": []
     }
 }
