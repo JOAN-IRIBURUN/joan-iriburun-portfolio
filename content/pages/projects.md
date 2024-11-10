@@ -16,7 +16,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: ''
-    subtitle: Austin Police Department (APD) 911 Call Analysis
+    subtitle: ''
     items:
       - type: Card
         title: HR Analytics
