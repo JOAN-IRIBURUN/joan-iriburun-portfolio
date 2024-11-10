@@ -122,4 +122,32 @@ sections:
           url: /images/Power BI.svg
           altText: Power bi logo
         actions: []
+  - type: HeroSection
+    title: Contact Me
+    subtitle: >-
+      Feel free to reach out for collaborations, questions, or opportunities.
+      You can contact me through the following:
+    text: ''
+    actions:
+      - type: Button
+        label: EMAIL
+        url: joaniriburun@gmail.com
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
+        label: LINKEDIN
+        url: 'https://www.linkedin.com/in/'
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
+        label: GITHUB
+        url: 'https://github.com/JOAN-IRIBURUN/'
+        size: large
+        variant: contained
+        color: primary
+    image:
+      type: Image
+      altText: Hero section image
 ---
