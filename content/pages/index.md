@@ -101,7 +101,7 @@ sections:
           altText: ms word logo
         actions: []
       - type: Card
-        title: Second Item Title
+        title: Excel
         text: ''
         image:
           type: Image
