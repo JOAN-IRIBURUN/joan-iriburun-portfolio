@@ -6,18 +6,21 @@ sections:
     title: Welcome to My Data Analytics Portfolio
     subtitle: Hi!
     text: >
-      Hi, I’m Joan, a Data Analyst with a passion for turning complex data into
-      clear, actionable insights. I specialize in using Excel, Power BI, and
-      Microsoft Word to analyze, visualize, and communicate data effectively. My
-      goal is to help organizations make data-driven decisions that optimize
-      performance and drive growth.
+      Hi, I’m Joan, a Data Analyst specializing in transforming data into clear,
+      actionable insights using Excel, Power BI, and Microsoft Word. I am
+      passionate about helping businesses unlock the full potential of their
+      data to make informed, data-driven decisions.
 
 
-      With a strong foundation in data analysis and visualization, I create
-      intuitive dashboards, detailed reports, and compelling visualizations that
-      tell the story behind the numbers. I’m eager to continue building my
-      skills and contribute to projects that use data to solve real-world
-      business challenges.
+      Through my work, I create interactive dashboards, in-depth reports, and
+      data visualizations that drive business performance and provide clarity on
+      complex data. Whether it's optimizing sales strategies, improving
+      operational efficiency, or understanding customer behavior, I use data to
+      tell the story that drives business growth.
+
+
+      Explore my projects to see how I leverage data analysis to deliver
+      impactful results, or get in touch if you’re interested in collaborating.
     actions:
       - type: Button
         label: projects
