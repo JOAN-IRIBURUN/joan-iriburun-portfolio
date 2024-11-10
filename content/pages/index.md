@@ -47,7 +47,7 @@ sections:
         title: HR Analytics
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/HR-Analytics.jpg
           altText: First item image
         text: >
           The goal of this HR analysis is to assess employee turnover and
