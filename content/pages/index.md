@@ -137,16 +137,6 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         actions: []
       - type: Card
-        title: ''
-        text: ''
-        actions:
-          - type: Button
-            label: Joan Iriburun
-            url: 'https://www.linkedin.com/in/'
-            size: medium
-            variant: text
-            color: primary
-      - type: Card
         title: 'Phone:'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
