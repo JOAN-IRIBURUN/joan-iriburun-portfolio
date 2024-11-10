@@ -23,7 +23,7 @@ sections:
         url: /
         size: medium
         variant: text
-        color: primary
+        color: secondary
       - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
