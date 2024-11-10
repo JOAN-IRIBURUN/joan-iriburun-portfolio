@@ -44,7 +44,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Card Title
+        title: HR Analytics
         image:
           type: Image
           url: /images/nextjs.svg
