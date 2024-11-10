@@ -139,7 +139,7 @@ sections:
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
-        variant: outlined
+        variant: contained
         color: primary
     image:
       type: Image
