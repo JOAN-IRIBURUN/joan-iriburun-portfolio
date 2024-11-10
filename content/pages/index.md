@@ -139,7 +139,13 @@ sections:
       - type: Card
         title: 'LinkedIn:'
         text: ''
-        actions: []
+        actions:
+          - type: Button
+            label: Joan Iriburun
+            url: /
+            size: medium
+            variant: text
+            color: primary
       - type: Card
         title: 'Phone:'
         text: >-
