@@ -93,7 +93,7 @@ sections:
         actions:
           - type: Button
             label: GITHUB REPOSITORY
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://github.com/JOAN-IRIBURUN/E-Commerce-Sales-Dashboard/'
   - type: CardsSection
     title: Technical Skills
     subtitle: ''
