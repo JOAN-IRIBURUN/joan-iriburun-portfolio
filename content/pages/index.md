@@ -130,13 +130,6 @@ sections:
       free to reach out.
     items:
       - type: Card
-        title: 'Email:'
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
-        actions: []
-      - type: Card
         title: 'Phone:'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
