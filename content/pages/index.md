@@ -130,7 +130,7 @@ sections:
       free to reach out.
     items:
       - type: Card
-        title: First Item Title
+        title: 'Email:'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
