@@ -87,7 +87,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Item Title
+        title: 911 Call Data Analysis for Austin Police Department
         text: >
           For this project, I developed an interactive Power BI dashboard to
           analyze over 1.76 million 911 calls for the Austin Police Department.
