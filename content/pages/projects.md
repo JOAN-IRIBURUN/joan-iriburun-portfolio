@@ -100,7 +100,7 @@ sections:
         image:
           type: Image
           url: /images/APD Analysis.jpg
-          altText: Item image
+          altText: APD Dashboard
         actions:
           - type: Button
             label: GITHUB REPOSITORY
