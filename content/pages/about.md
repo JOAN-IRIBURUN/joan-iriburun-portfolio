@@ -15,7 +15,7 @@ sections:
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: Professional Experience
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
