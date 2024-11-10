@@ -48,7 +48,7 @@ sections:
         image:
           type: Image
           url: /images/HR-Analytics.jpg
-          altText: First item image
+          altText: ''
         text: >
           The goal of this HR analysis is to assess employee turnover and
           identify factors that may improve retention.
