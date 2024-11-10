@@ -57,7 +57,7 @@ sections:
             label: GitHub Repository
             url: 'https://docs.netlify.com/visual-editor/overview/'
       - type: Card
-        title: Second Card Title
+        title: Adidas Sales Data Analysis
         image:
           type: Image
           url: /images/Adidas-Logo-1991.jpg
