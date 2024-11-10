@@ -99,13 +99,7 @@ sections:
           type: Image
           url: /images/Word.svg
           altText: ms word logo
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
       - type: Card
         title: Second Item Title
         text: >-
