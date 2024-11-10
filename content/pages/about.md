@@ -17,11 +17,10 @@ sections:
   - type: HeroSection
     title: Professional Experience
     subtitle: Alert Microfinance Bank
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Managed the recovery of substandard loans, negotiated repayment terms with
+      customers, and utilized legal and police support when necessary to enforce
+      payment.
     actions: []
     image:
       type: Image
