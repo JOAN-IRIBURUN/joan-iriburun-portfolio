@@ -47,7 +47,7 @@ sections:
         title: HR Analytics
         image:
           type: Image
-          url: /images/HR-Analytics.jpg
+          url: /images/HR-ANALYTICS-DASHBOARD.jpg
           altText: ''
         text: >
           The goal of this HR analysis is to assess employee turnover and
