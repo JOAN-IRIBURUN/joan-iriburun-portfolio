@@ -104,7 +104,8 @@ sections:
         actions:
           - type: Button
             label: GITHUB REPOSITORY
-            url: /
+            url: >-
+              https://github.com/JOAN-IRIBURUN/Austin-Police-Department-911-Call-Analysis
             size: medium
             variant: text
             color: primary
