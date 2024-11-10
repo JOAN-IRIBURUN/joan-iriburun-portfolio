@@ -137,7 +137,7 @@ sections:
         color: primary
       - type: Button
         label: LINKEDIN
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://www.linkedin.com/in/'
         size: large
         variant: contained
         color: primary
