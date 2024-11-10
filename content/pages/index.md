@@ -131,7 +131,7 @@ sections:
     actions:
       - type: Button
         label: EMAIL
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: joaniriburun@gmail.com
         size: large
         variant: contained
         color: primary
