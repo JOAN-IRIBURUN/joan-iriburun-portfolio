@@ -141,6 +141,12 @@ sections:
         size: large
         variant: contained
         color: primary
+      - type: Button
+        label: GITHUB
+        url: 'https://github.com/JOAN-IRIBURUN/'
+        size: medium
+        variant: text
+        color: primary
     image:
       type: Image
       altText: Hero section image
