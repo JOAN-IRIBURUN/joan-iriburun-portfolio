@@ -104,7 +104,7 @@ sections:
           altText: Item image
         actions:
           - type: Button
-            label: Learn More
+            label: GITHUB REPOSITORY
             url: /
             size: medium
             variant: text
