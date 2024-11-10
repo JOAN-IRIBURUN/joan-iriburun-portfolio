@@ -16,7 +16,7 @@ sections:
       commodo consequat.
   - type: HeroSection
     title: Professional Experience
-    subtitle: Alert Microfinance Bank
+    subtitle: Loan Recovery OfficerAlert Microfinance Bank
     text: >
       Managed the recovery of substandard loans, negotiated repayment terms with
       customers, and utilized legal and police support when necessary to enforce
