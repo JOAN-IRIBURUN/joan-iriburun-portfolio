@@ -137,7 +137,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         actions: []
       - type: Card
-        title: 'LinkedIn:'
+        title: ''
         text: ''
         actions:
           - type: Button
