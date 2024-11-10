@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Hero Title
+    title: Hi!
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
       I’m a data analyst with a proven track record in loan recovery and
