@@ -43,6 +43,7 @@ sections:
     image:
       type: Image
       altText: Hero section image
+      url: /images/Photo from Godwin.jpg
   - type: CardsSection
     title: Featured Projects
     subtitle: ''
