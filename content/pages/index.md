@@ -13,7 +13,7 @@ sections:
       decisions.
     actions:
       - type: Button
-        label: github
+        label: projects
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
