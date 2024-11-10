@@ -128,12 +128,5 @@ sections:
       I’d love to hear from you! Whether you’re interested in collaborating on a
       project, have a question about my work, or simply want to connect, feel
       free to reach out.
-    items:
-      - type: Card
-        title: 'Phone:'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        actions: []
+    items: []
 ---
