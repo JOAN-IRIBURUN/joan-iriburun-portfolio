@@ -24,7 +24,7 @@ sections:
     actions:
       - type: Button
         label: projects
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: /Projects
         size: large
         variant: contained
         color: primary
