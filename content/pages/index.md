@@ -6,9 +6,11 @@ sections:
     title: Hero Title
     subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      I’m a data analyst with a proven track record in loan recovery and
+      customer service. I leverage data to uncover insights, improve business
+      processes, and drive growth. With expertise in statistical analysis and
+      data visualization, I help businesses make informed, data-driven
+      decisions.
     actions:
       - type: Button
         label: Start Building
