@@ -40,7 +40,7 @@ sections:
       type: Image
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Featured Projects
     subtitle: Section subtitle here
     items:
       - type: Card
