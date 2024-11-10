@@ -16,7 +16,7 @@ sections:
       commodo consequat.
   - type: HeroSection
     title: Professional Experience
-    subtitle: The section subtitle
+    subtitle: Alert Microfinance Bank
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
