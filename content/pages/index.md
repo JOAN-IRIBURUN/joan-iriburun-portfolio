@@ -6,11 +6,16 @@ sections:
     title: Hi!
     subtitle: Welcome to my portfolio
     text: >
-      I’m a data analyst with a proven track record in loan recovery and
-      customer service. I leverage data to uncover insights, improve business
-      processes, and drive growth. With expertise in statistical analysis and
-      data visualization, I help businesses make informed, data-driven
-      decisions.
+      I’m Joan, a Data Analyst passionate about turning data into actionable
+      insights using Excel, Power BI, and Word. With a background in \[your
+      field], I specialize in analyzing data, creating interactive dashboards,
+      and building clear reports to help businesses make informed decisions.
+
+
+      I’m excited to continue honing my skills in data analysis and
+      visualization to drive business growth and efficiency. My goal is to
+      leverage my expertise in Excel and Power BI to contribute to data-driven
+      strategies and deliver impactful insights.
     actions:
       - type: Button
         label: projects
