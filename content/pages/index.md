@@ -145,7 +145,7 @@ sections:
         label: GITHUB
         url: 'https://github.com/JOAN-IRIBURUN/'
         size: medium
-        variant: text
+        variant: contained
         color: primary
     image:
       type: Image
