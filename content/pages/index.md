@@ -63,10 +63,12 @@ sections:
           url: /images/Adidas-Logo-1991.jpg
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          This project focuses on analyzing a dataset of Adidas sales
+          transactions to derive actionable insights that can help the company
+          optimize its sales strategies, improve profitability, and enhance
+          customer satisfaction. The analysis covers various aspects of sales
+          performance, including regional trends, product performance, sales
+          methods, and retailer effectiveness.
         actions:
           - type: Button
             label: Read the Docs
