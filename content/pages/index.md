@@ -60,7 +60,7 @@ sections:
         actions:
           - type: Button
             label: GitHub Repository
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://github.com/JOAN-IRIBURUN/HR-Analytics/'
       - type: Card
         title: Adidas Sales Data Analysis
         image:
