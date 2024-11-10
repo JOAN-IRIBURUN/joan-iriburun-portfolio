@@ -93,7 +93,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: Word
         text: ''
         image:
           type: Image
