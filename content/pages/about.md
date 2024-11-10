@@ -18,10 +18,7 @@ sections:
     title: Professional Experience
     subtitle: ''
     text: >
-      **Loan Recovery Officer**
-
-
-      Alert Microfinance Bank (2024 - date)
+      *   **Loan Recovery Officer | Alert Microfinance Bank | 2024 - date**
 
 
       Managed the recovery of substandard loans, negotiated repayment terms with
@@ -29,12 +26,7 @@ sections:
       payment.
 
 
-
-
-      **Branch Supervisor**
-
-
-      ULTIMCRED LTD (2019 - 2024)
+      *   **Branch Supervisor | UltimCred Ltd. | 2019 - 2024**
 
 
       Led a team of 150 loan recovery officers across multiple platforms,
@@ -42,12 +34,8 @@ sections:
       efficiency through strategic leadership and CRM adoption.
 
 
-
-
-      **Customer Service Representative**
-
-
-      Airtel Nigeria Ltd. (2018 - 2019)
+      *   **Customer Service Representative | Airtel Nigeria Ltd. | 2018 -
+      2019**
 
 
       Provided customer support by resolving complaints, offering product
