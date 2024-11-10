@@ -115,11 +115,5 @@ sections:
           type: Image
           url: /images/Power BI.svg
           altText: Power bi logo
-        actions:
-          - type: Button
-            label: Learn more
-            url: /
-            size: medium
-            variant: text
-            color: primary
+        actions: []
 ---
