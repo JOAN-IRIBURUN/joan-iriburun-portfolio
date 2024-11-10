@@ -26,7 +26,7 @@ sections:
         color: primary
       - type: Button
         label: GitHub
-        url: /
+        url: 'https://github.com/JOAN-IRIBURUN'
         size: large
         variant: contained
         color: primary
